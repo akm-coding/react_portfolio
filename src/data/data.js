@@ -22,6 +22,6 @@ export const data = [
     name: "React JS Application",
     image: NetflixImg,
     github: "https://github.com/aungkaungmyat9504/netflix_ui_clone",
-    live: "https://netflix-clone-sable-two.vercel.app/",
+    live: "",
   },
 ];
