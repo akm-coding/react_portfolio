@@ -16,23 +16,17 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold">
             <p>
               Hello. I'm Aung Kaung Myat, a passionate full stack developer. I'm
-              19 years old. Please take a look around.
+              19 years old.
             </p>
           </div>
           <div>
             <p>
-              I am fascinated by the ever-evolving world of full stack
-              development and the ability to create innovative solutions that
-              enhance user experiences. Recently, I completed a coding bootcamp
-              where I gained a solid foundation in full stack development. I
-              have hands-on experience with HTML, CSS, JavaScript, and have
-              built responsive web applications using popular frameworks like
-              React.js and Laravel. I used React.js for the front-end and integrated
-              a PHP back-end for data management. Although I have beginner-level
-              experience, I am constantly learning and expanding my skills
-              through self-study and hands-on projects. I am eager to
-              collaborate and explore new opportunities in the field. Feel free
-              to reach out or explore my projects further!"
+              I'm a dedicated full stack developer with a beginner experience.
+              Skilled in Html, Css, JavaScript, React.js, and PHP. I've built
+              responsive web applications and recently completed a coding
+              bootcamp. Continuously expanding my knowledge, currently focusing
+              on databases and cloud technologies. Open to collaborations and
+              eager to explore new opportunities in the field.
             </p>
           </div>
         </div>
